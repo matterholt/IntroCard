@@ -1,2 +1,0 @@
-# IntroCard
-Created with CodeSandbox
